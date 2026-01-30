@@ -9,3 +9,4 @@
 | 21.1.2026  | 1 | Module 3 | Competed moudule |
 | 24.1.2026  | 1.5 | Module 4 | Competed moudule |
 | 25.1.2026  | 0.5 | Module 5 and final exam | Competed moudule, and last exam |
+| 30.1.2026  | 2 | Portswigger introduction |  Learning to use portswigger |
