@@ -12,3 +12,4 @@
 | 30.1.2026  | 2 | Portswigger introduction |  Learning to use portswigger |
 | 31.1.2026  | 2 | Portswigger labs | Completed the first three labs, two from SQL injection and one from Authentication |
 | 1.2.2026  | 2 | Portswigger labs | Completed the next three labs, one from Authentication and two from Access Controls |
+| 2.2.2026  | 1 | Laboratory | BookingSystem-Phase 1 completed |
