@@ -7,10 +7,9 @@
 - Finding vulnerabilities in the BookingSystem web application
 
 
-**Test environment & dates:**  
+**Time & dates:**  
 - Start:  2/2/2026 9:00 AM
 - End:  2/2/2026 10:00 AM
-- Test environment: ZAP,  
 
 
 
@@ -21,11 +20,11 @@
 **Overall risk level:** (Low / Medium / High / Critical)
 
 **Top 5 immediate actions:**  
-1.  Path traversal - High 
-2.  SQL Injection - High
-3.  Absence of Anti-CSRF Tokens - Medium
-4.  Content Security Policy (CSP) Header Not Set - Medium
-5.  Format String Error - Medium
+1.  Fix SQL injection vulnerabilities
+2.  Eliminate path travelsal risks
+3.  Add missing security headers
+4.  Supperss error disclosure
+5.  Implement CSRF protection
    
 
 ---
@@ -42,22 +41,14 @@
 
 ---
 
-# 4️⃣ Findings (filled with examples → replace)
+# 4️⃣ Findings 
 
-> Fill in one row per finding. Focus on clarity and the most important issues.
-
-| ID | Severity | Finding | Description | Evidence / Proof |
-|------|-----------|----------|--------------|------------------|
-| F-01 | 🔴 High | SQL Injection in registration | Input field allows `' OR '1'='1` injection | Screenshot or sqlmap result |
-| F-02 | 🟠 Medium | Session fixation | Session ID remains unchanged after login | Burp log or response headers |
-| F-03 | 🟡 Low | Weak password policy | Accepts passwords like "12345" | Screenshot of registration success |
-
----
 
 1. Missing Anti-clickjacking Header - The response does not protect against 'ClickJacking' attacks.
 2. Application Error Disclosure - This page contains an error/warning message that may disclose sensitive information like the location of the file that produced the unhandled exception. This information can be used to launch further attacks against the web application.
 3. X-Content-Type-Options Header Missing - The Anti-MIME-Sniffing header X-Content-Type-Options was not set to 'nosniff'. This allows older versions of Internet Explorer and Chrome to perform MIME-sniffing on the response body, potentially causing the response body to be interpreted and displayed as a content type other than the declared content type.
-4. 
+4. User Agent Fuzzer - Check for differences in response based on fuzzed User Agent (eg. mobile sites, access as a Search Engine Crawler). Compares the response statuscode and the hashcode of the response body with the original response.
+5. SQL Injection - Do not trust client side input, even if there is client side validation in place.
 
 ---
 
