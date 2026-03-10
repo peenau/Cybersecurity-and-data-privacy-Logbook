@@ -15,3 +15,4 @@
 | 2.2.2026  | 1 | Laboratory | BookingSystem-Phase 1 part 1 completed |
 | 11.2.2026  | 4 | Report done | BookingSystem-Phase 1 part 2 completed |
 | 18.2.2026  | 6 | Password cracking | BookingSystem-Phase 2 completed |
+| 10.3.2026  | 1.5 | Portswigger labs | Cross-site scripting, solved 5 labs |
