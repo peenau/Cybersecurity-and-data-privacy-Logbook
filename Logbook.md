@@ -18,3 +18,4 @@
 | 10.3.2026  | 1.5 | Portswigger labs | Cross-site scripting, solved 5 labs |
 | 11.3.2026  | 1 | Portswigger labs | SQL injection, solved 2 labs |
 | 15.3.2026  | 1.5 | Portswigger labs | SQL injection, solved 3 labs |
+| 19.3.2026  | 5 | Portswigger labs | Access control vulnerabilites, solved 6 labs |
