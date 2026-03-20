@@ -19,3 +19,4 @@
 | 11.3.2026  | 1 | Portswigger labs | SQL injection, solved 2 labs |
 | 15.3.2026  | 1.5 | Portswigger labs | SQL injection, solved 3 labs |
 | 19.3.2026  | 5 | Portswigger labs | Access control vulnerabilites, solved 6 labs |
+| 20.3.2026  | 4 | Portswigger labs | Solved 4 labs |
