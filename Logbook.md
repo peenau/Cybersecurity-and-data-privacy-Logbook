@@ -10,13 +10,15 @@
 | 24.1.2026  | 1.5 | Module 4 | Competed moudule |
 | 25.1.2026  | 0.5 | Module 5 and final exam | Competed moudule, and last exam |
 | 30.1.2026  | 2 | Portswigger introduction |  Learning to use portswigger |
-| 31.1.2026  | 2 | Portswigger labs | Completed the first three labs, two from SQL injection and one from Authentication |
-| 1.2.2026  | 2 | Portswigger labs | Completed the next three labs, one from Authentication and two from Access Controls |
-| 2.2.2026  | 1 | Laboratory | BookingSystem-Phase 1 part 1 completed |
+| 31.1.2026  | 2.5 | Portswigger labs | Completed the first three labs, two from SQL injection and one from Authentication |
+| 1.2.2026  | 2.5 | Portswigger labs | Completed the next three labs, one from Authentication and two from Access Controls |
+| 2.2.2026  | 1.5 | Laboratory | BookingSystem-Phase 1 part 1 completed |
 | 11.2.2026  | 4 | Report done | BookingSystem-Phase 1 part 2 completed |
 | 18.2.2026  | 6 | Password cracking | BookingSystem-Phase 2 completed |
-| 10.3.2026  | 1.5 | Portswigger labs | Cross-site scripting, solved 5 labs |
+| 10.3.2026  | 3 | Portswigger labs | Cross-site scripting, solved 5 labs |
 | 11.3.2026  | 1 | Portswigger labs | SQL injection, solved 2 labs |
 | 15.3.2026  | 1.5 | Portswigger labs | SQL injection, solved 3 labs |
 | 19.3.2026  | 5 | Portswigger labs | Access control vulnerabilites, solved 6 labs |
 | 20.3.2026  | 4 | Portswigger labs | Solved 4 labs |
+| 21.3.2026  | 5 | Portswigger labs | SQL injection and Business logic vulnerabilities, Solved 4 labs |
+| 21.3.2026  | 2 | Final assingment | Creating the report |
